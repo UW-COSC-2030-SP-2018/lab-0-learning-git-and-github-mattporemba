@@ -7,3 +7,4 @@ List two truths and one lie about you below
 
 
 Bonus (+1), add your screen shot as an image here.
+lab-0-learning-git-and-github-mattporemba/proof/TryGitHubProof.png
